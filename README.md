@@ -1,7 +1,7 @@
 # kawi
 Java - JavaApplet que se ejecuta del lado del cliente para proveer funcionalidades asociadas a la firma electrónica bajo varios esquemas de funcionamiento.
 
-Dependencias:
+## Dependencias
  * bcmail-jdk15on-150
  * bcpkix-jdk15on-150
  * bcprov-jdk15on-150
@@ -13,7 +13,7 @@ Dependencias:
  * lib-flex-pkikeys v010
  * lib-flex-helpers v010
 
-Copyright (C) 2010
+## Copyright (C) 2010
 Ing. Felix D. Lopez M. - flex.developments@gmail.com
 
 Desarrollo apoyado por la Superintendencia de Servicios de Certificación Electrónica (SUSCERTE) durante 2010-2014 por:
