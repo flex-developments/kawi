@@ -8,7 +8,7 @@ Dependencias:
  * commons-net-3.1
  * mail
  * xmlsec-1.5.2
- * itext-v544-nonofficial v010
+ * itextpdf-v552-nonofficial v010
  * lib-flex-esign v010
  * lib-flex-pkikeys v010
  * lib-flex-helpers v010
