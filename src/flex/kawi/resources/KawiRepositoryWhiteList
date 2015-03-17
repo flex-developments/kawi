@@ -1,0 +1,31 @@
+#La primera línea debe indicar el algoritmo de hash con el fueron generados los 
+#hash de los drivers. Los valores pueden ser: SHA-1, SHA-256, SHA-384 ó SHA-512
+SHA-256
+
+#---------------------- Lista de repositorios permitidos -----------------------
+
+#c1-2.p12
+788a48e355ec3be4cbef23a268e493ac00c7244f4d04077c899d1da1e889de7e
+
+#c2-2.p12
+#69958331515f639e690725026d06e2fcc5263091b1987f1e09a9a05369d69585
+
+######################## Obtenidos desde Ubuntu 32 bits#########################
+
+#PKCS#11 Gemalto=/usr/lib/ClassicClient/libgclib.so
+01b3b9d63bc795f9533332054cf39e92c72dccf3311ab7040adaaf4f56d99f2a
+
+#PKCS#11 Inteligensa=/usr/local/lib/libcvP11.so
+dc8872cd80e9025dbc4e6fceed6bba655be63a94ee5da654366811b4f8edcde4
+
+#PKCS#11 OpenSC=/usr/lib/opensc-pkcs11.so
+ec6df56106a685b77f4d19d3a5752b7a30fbdca0c4b2014e5b0558c6630fa784
+
+#PKCS#11 ePass2000=/usr/lib/libepsng_p11.so
+c09b3ccb05fabecbac65f0aa1e2dc88ede5c12589c6683a614afbe195175719a
+
+#PKCS#11 eToken-Aladdin=/usr/lib/libeTPkcs11.so
+e8aa953bff60bf570c79ef66d14c34294c11b4a4452af6328d642fcad4256dab
+
+
+####################### Obtenidos desde Windows 7 32 bits#######################
