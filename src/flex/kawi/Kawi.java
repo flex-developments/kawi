@@ -134,6 +134,7 @@ public class Kawi {
                     PDFOperator.getPdfReader(pdfIn, readPass), 
                     clientPrivateKey, 
                     clientCertificate, 
+                    null,
                     readPass, 
                     writePass, 
                     reason, 
@@ -238,7 +239,7 @@ public class Kawi {
             String encodedSign = null;
             try {
                 date = Kawi.getKawiclock().getDate();
-                cryptographyProvider = ProviderHelper.getRegCryptographyProviderOrDefault(cryptographyProvider);
+                cryptographyProvider = ProviderHelper.getRegCryptographyProvider(cryptographyProvider);
                 
                 encodedSign = KawiQueueOperator.processDataQueueNodeSign(
                                     queue.getNode(id), 

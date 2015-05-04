@@ -137,6 +137,7 @@ public class KawiQueueOperator {
                 PDFOperator.getPdfReader(pdfIn, node.getReadPass()), 
                 privateKey, 
                 certificate, 
+                null,
                 node.getReadPass(), 
                 node.getWritePass(), 
                 node.getReason(), 

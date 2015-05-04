@@ -2,16 +2,13 @@
 Java - JavaApplet ejecutado del lado del cliente para proveer funcionalidades asociadas a firma electrónica.
 
 ## Dependencias
- * bcmail-jdk15on-150
- * bcpkix-jdk15on-150
- * bcprov-jdk15on-150
- * commons-net-3.1
- * mail
- * xmlsec-1.5.2
- * itextpdf-v552-nonofficial v010
- * lib-flex-esign v010
- * lib-flex-pkikeys v010
- * lib-flex-helpers v010
+ * itextpdf-v420-nonofficial v020
+ * bc-jdk15to17-v150-nonofficial v020
+ * lib-flex-esign v020
+ * lib-flex-pkikeys v020
+ * lib-flex-helpers v020
+   * commons-net-3.3 (http://commons.apache.org/proper/commons-net/download_net.cgi)
+   * javax.mail  (https://java.net/projects/javamail/pages/Home)
 
 ## Copyright (C) 2010 - Ing. Félix D. López M.
  * Ing. Félix D. López M. - flex.developments en gmail
